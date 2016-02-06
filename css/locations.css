@@ -1,21 +1,21 @@
-article {
-  max-width: 75%;
-  border: solid black .18em;
+.loc {
+  max-width: 100%;
+  /*border: solid black .18em;*/
   padding: 5%;
-  height: 10em;
+  height: 15em;
   padding-top:2%;
 }
 
-article div p {
+.loc div p {
   display: block;
   float: left;
   max-width: 30%;
 }
 
-article div > img {
+.loc div > img {
   display: inline-block;
   float: right;
-  width: 20%;
-  height: 20%;
-  border: solid black .18em;
+  width: 40%;
+  height: 40%;
+  /*border: solid black .18em;*/
 }
