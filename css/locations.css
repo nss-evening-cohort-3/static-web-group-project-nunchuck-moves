@@ -1,3 +1,4 @@
+
 .loc {
   max-width: 100%;
   /*border: solid black .18em;*/
@@ -7,10 +8,15 @@
 }
 
 .loc div p {
+
+
+
   display: block;
   float: left;
   max-width: 30%;
+  margin-right: 10%;
 }
+
 
 .loc div > img {
   display: inline-block;
@@ -18,4 +24,5 @@
   width: 40%;
   height: 40%;
   /*border: solid black .18em;*/
+
 }
