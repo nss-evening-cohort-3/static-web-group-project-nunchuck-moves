@@ -1,6 +1,10 @@
 
 /*control css here?*/
 
+body {
+  font-family: 'Slabo 27px', serif;
+}
+
 .image {
   position: ;
   width: ;
@@ -24,8 +28,8 @@ div#contact {
   width: 27%;
   float: left;
 }
-
+/*
 footer {
   display: block;
   margin: 0 auto 0 auto;
-}
+}*/
