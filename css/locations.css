@@ -1,21 +1,25 @@
+
+
 article {
-  max-width: 75%;
+  max-width: 60%;
   border: solid black .18em;
   padding: 5%;
-  height: 10em;
-  padding-top:2%;
+  height: 13em;
+  padding-top:1%;
+  font-family: 'Slabo 13px', serif;
 }
 
-article div p {
+article div {
   display: block;
   float: left;
   max-width: 30%;
+  margin-right: 10%;
 }
 
-article div > img {
+article img {
   display: inline-block;
-  float: right;
-  width: 20%;
-  height: 20%;
+  float: left;
+  width: 40%;
+  height: 78%;
   border: solid black .18em;
 }
