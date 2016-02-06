@@ -1,6 +1,11 @@
 body {
 list-style: none;
+}
 
+#wrapper {
+    /*border: 2px solid black;*/
+    max-width: 700px;
+   
 
 }
 
@@ -48,9 +53,10 @@ list-style: none;
 }
 
 .page {
-	max-width: 700px;
+	background-color: lightgreen;
+	max-width: 694px;
 	height: 300px;
-	border: 2px solid black;
+	border: 3px solid black;
 	border-radius: 5px;
 	margin-top: 15px;
 }
