@@ -55,7 +55,7 @@ list-style: none;
 .page {
 	background-color: lightgreen;
 	max-width: 694px;
-	height: 395px;
+	min-height: 395px;
 	border: 3px solid black;
 	border-radius: 5px;
 	margin-top: 15px;
