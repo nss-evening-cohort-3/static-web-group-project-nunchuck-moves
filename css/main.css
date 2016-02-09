@@ -65,6 +65,9 @@ list-style: none;
 	max-width: 100%;
 }
 
+#page img{
+	max-height: 200px;
+}
 
 
 
